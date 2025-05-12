@@ -29,6 +29,7 @@ _CLASSIFIERS = [
     'Programming Language :: Python :: 2.7',
     'Programming Language :: Python :: 3',
     'Operating System :: OS Independent',
+    'Metadata-Version :: 2.1',
 ]
 
 _PROJECT_URLS = {
